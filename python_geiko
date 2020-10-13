@@ -1,0 +1,85 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "pythonの授業.ipynb",
+      "provenance": [],
+      "mount_file_id": "1aVcwYtz2aUbv3-VTT8LaMvQEhg9B8A5v",
+      "authorship_tag": "ABX9TyMol1HVrNyMXeH1ri+0GrfM",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/marina1017/google_colab/blob/main/python_geiko\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "CTES2mAiugYc",
+        "outputId": "cb666cf5-7646-4917-8552-3f759e1297ba",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 34
+        }
+      },
+      "source": [
+        "%cd /content/drive/My Drive/Project/python_geiko"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "/content/drive/My Drive/Project/python_geiko\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "fnbZYGnHveq1",
+        "outputId": "f753d242-0db8-4366-a228-dc8c8c4058c4",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 136
+        }
+      },
+      "source": [
+        "%cd /content/drive/My Drive/Project/\n",
+        "!git clone git@github.com:marina1017/google_colab.git\n",
+        "\n"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "/content/drive/My Drive/Project\n",
+            "Cloning into 'google_colab'...\n",
+            "Host key verification failed.\n",
+            "fatal: Could not read from remote repository.\n",
+            "\n",
+            "Please make sure you have the correct access rights\n",
+            "and the repository exists.\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    }
+  ]
+}
